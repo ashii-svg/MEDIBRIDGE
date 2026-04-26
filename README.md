@@ -43,8 +43,8 @@ MediBridge uses real-time American Sign Language (ASL) recognition, speech-to-te
 
 ## Live Demo
 
-> **[medibridge.github.io/medibridge](https://your-username.github.io/medibridge)**
-> *(replace with your actual GitHub Pages URL)*
+> **[medibridge.github.io/medibridge](https://ashii-svg.github.io/MEDIBRIDGE)**
+
 
 ---
 
